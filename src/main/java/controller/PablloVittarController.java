@@ -6,9 +6,9 @@ public class PablloVittarController {
 
     private PablloVittarService pablloVittarService;
 
-    public void flashPose() {
+    public void getMusic() {
 
-        pablloVittarService.flashPose();
+        pablloVittarService.getTheBestMusic();
 
     }
 }

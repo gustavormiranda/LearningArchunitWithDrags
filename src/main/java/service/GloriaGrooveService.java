@@ -7,6 +7,6 @@ public class GloriaGrooveService {
     private GloriaGrooveRepository gloriaGrooveRepository;
 
     public void bumbumDeOuro() {
-        gloriaGrooveRepository.bumbumDeOuro();
+        gloriaGrooveRepository.getTheBestMusic();
     }
 }

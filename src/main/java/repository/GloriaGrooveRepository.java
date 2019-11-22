@@ -2,7 +2,7 @@ package repository;
 
 public class GloriaGrooveRepository {
 
-    public String bumbumDeOuro() {
+    public String getTheBestMusic() {
         return "Bumbum de Ouro";
     }
 }

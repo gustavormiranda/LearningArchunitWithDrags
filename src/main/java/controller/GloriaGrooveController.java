@@ -6,9 +6,9 @@ public class GloriaGrooveController {
 
     private GloriaGrooveRepository gloriaGrooveRepository;
 
-    public void flashPose() {
+    public void getMusic() {
 
-        gloriaGrooveRepository.bumbumDeOuro();
+        gloriaGrooveRepository.getTheBestMusic();
 
     }
 }
